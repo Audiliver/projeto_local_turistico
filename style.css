@@ -44,7 +44,7 @@ main div img {
   height: 375px;
   object-fit: cover; /* Ajusta a proporção da imagem para caber no container disponível pra ela sem distorcer */
   border-radius: 28px;
-  width: 1120px;
+  width: 100%;
   object-position: center;
 }
 
